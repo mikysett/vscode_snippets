@@ -3,7 +3,7 @@
 		"scope": "c,cpp",
 		"prefix": "cmain",
 		"body": [
-			"int\tmain(${1|void|int argc, char **argv})",
+			"int\tmain(${1|void,int argc\\, char **argv|})",
 			"{",
 			"\t$0",
 			"}",
