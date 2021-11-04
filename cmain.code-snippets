@@ -6,6 +6,7 @@
 			"int\tmain(${1|void,int argc\\, char **argv|})",
 			"{",
 			"\t$0",
+			"\treturn (0);",
 			"}",
 			""
 		],
