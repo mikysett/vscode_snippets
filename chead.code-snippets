@@ -3,8 +3,8 @@
 		"scope": "c,cpp,c++",
 		"prefix": "chead",
 		"body": [
-			"#ifndef $1",
-			"# define $1",
+			"#ifndef ${1:${TM_FILENAME_BASE/(.*)/${1:/upcase}/}}_HPP",
+			"# define $1_HPP",
 			"",
 			"$0",
 			"",
