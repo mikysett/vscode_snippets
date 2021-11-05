@@ -1,0 +1,10 @@
+{
+	"cout C++ shortcut": {
+		"scope": "cpp",
+		"prefix": "cout",
+		"body": [
+			"std::cout << $0 << std::endl;"
+		],
+		"description": "Faster a line printing in std::out"
+	}
+}
