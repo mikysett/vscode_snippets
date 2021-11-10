@@ -1,0 +1,9 @@
+{
+	"C header protection": {
+		"scope": "c,cpp,c++",
+		"prefix": "cincl",
+		"body": [
+			"#include \"$0\""
+		]
+	}
+}
