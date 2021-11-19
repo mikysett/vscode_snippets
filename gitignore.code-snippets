@@ -1,0 +1,15 @@
+{
+	"Gitignore basic stuff": {
+		"scope": "",
+		"prefix": "gitignore",
+		"body": [
+			"**/.vscode/",
+			"**/.DS_Store",
+			"**/test-*/",
+			"**/test-*",
+			"**/obj/*",
+			"**/target/",
+			""
+		]
+	}
+}
