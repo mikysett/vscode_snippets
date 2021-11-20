@@ -1,0 +1,9 @@
+{
+	"Rust println!": {
+		"scope": "rust",
+		"prefix": "rprint",
+		"body": [
+			"println!(\"$0\");"
+		]
+	}
+}
