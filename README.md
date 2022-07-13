@@ -8,3 +8,10 @@ This repo is mainly for personal use in order to have all my snippets accessible
 - `ortclass` create an ortodox class (C++)
 - `gitignore` for basic ignore (including rust `target`)
 - `rprint` to print a line (Rust)
+
+## Good to know
+Depending on your plaform, your user snippets file is located here:
+
+- Windows %APPDATA%\Code\User\snippets/
+- Mac $HOME/Library/Application Support/Code/User/snippets/
+- Linux $HOME/.config/Code/User/snippets/
