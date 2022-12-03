@@ -1,9 +1,10 @@
 {
-	"Rust println!": {
+	"Rust println shortcut": {
 		"scope": "rust",
 		"prefix": "rprint",
 		"body": [
-			"println!(\"$0\");"
-		]
+			"println!({}, $0);"
+		],
+		"description": "Faster a line printing in Rust"
 	}
 }
