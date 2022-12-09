@@ -1,0 +1,10 @@
+{
+	"JS console log shortcut": {
+		"scope": "javascript",
+		"prefix": "jsprint",
+		"body": [
+			"console.log($0)"
+		],
+		"description": "Faster a line printing in JS"
+	}
+}

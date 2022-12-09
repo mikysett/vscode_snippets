@@ -1,0 +1,10 @@
+{
+	"JS console error shortcut": {
+		"scope": "javascript",
+		"prefix": "jseprint",
+		"body": [
+			"console.error($0)"
+		],
+		"description": "Faster a line printing on stderr in JS"
+	}
+}
